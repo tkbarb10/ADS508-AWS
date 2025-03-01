@@ -1,2 +1,4 @@
 # ADS508-AWS
-Lab work
+
+Repo to store lab work from AWS course
+

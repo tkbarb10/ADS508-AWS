@@ -1,7 +1,4 @@
 # ADS508-AWS
-Lab work
 
-hello_world
-
-let's store passwords
+Repo to store lab work from AWS course
 
